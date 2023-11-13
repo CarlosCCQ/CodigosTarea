@@ -1,0 +1,6 @@
+isw\uni\dto\Usuario.class
+isw\uni\dto\UsuarioController.class
+isw\uni\dto\UsuarioService.class
+isw\uni\dto\UsuarioMapper.class
+isw\uni\dto\UsuarioDTO.class
+isw\uni\springboot\Aplication.class
